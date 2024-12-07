@@ -1,0 +1,26 @@
+{
+  "tree": {
+    "max_depth": 3,
+    "ignore_patterns": [
+      "venv",
+      "__pycache__",
+      "node_modules",
+      "build",
+      "public",
+      "dist",
+      ".git"
+    ],
+    "ignore_extensions": [
+      "*.pyc",
+      "*.pyo",
+      "*.pyd",
+      "*.so",
+      "*.dll",
+      "*.class"
+    ]
+  },
+  "system_commands": {
+    "disk_usage_threshold": 80
+  },
+  "base_project_path": "/home/lame/gptme"
+}
